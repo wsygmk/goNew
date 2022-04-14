@@ -1,0 +1,2 @@
+# goNew
+the new begin
