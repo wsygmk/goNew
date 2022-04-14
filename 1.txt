@@ -1,1 +1,12 @@
-world is beautiful but ugly
+http://tool.chinaz.com/dns
+
+git config --global user.name"wsygmk"
+git config --global user.email"2636800851@qq.com"
+
+
+[master 6755881] commit text file
+1 file 
+
+
+  git config --global user.email "2636800851@qq.com"
+  git config --global user.name "wsygmk"
